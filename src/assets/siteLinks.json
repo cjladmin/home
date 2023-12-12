@@ -5,24 +5,9 @@
     "link": "https://blog.imsyy.top/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
     "icon": "CompactDisc",
     "name": "音乐",
     "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
   },
   {
     "icon": "Fire",
@@ -30,8 +15,18 @@
     "link": "https://hot.imsyy.top/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Robot",
+    "name": "AI聊天",
+    "link": ""
+  },
+  {
+    "icon": "Compass",
+    "name": "网址导航",
+    "link": "http://box.cjlblog.vip/"
+  },
+  {
+    "icon": "HeartRegular",
+    "name": "天定良缘",
+    "link": "http://love.cjlblog.vip/"
   }
 ]
